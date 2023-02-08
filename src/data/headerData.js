@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Sreerag Rajan',
-    title: "Web Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
+    name: 'Kae Ko Ko',
+    title: "Web and Application Developer",
+    desciption:"No Matter what the situation is... Always enjoy it in a positive way",
+    image: 'https://media.licdn.com/dms/image/D5603AQH5VFGmogtQPg/profile-displayphoto-shrink_400_400/0/1673771542714?e=1681344000&v=beta&t=M8F7BHvQT6irDeBETYI5imoXxhiFUk9WLEYsmSvUSQk',
     resumePdf: resume
 }

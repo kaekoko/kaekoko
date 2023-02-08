@@ -12,6 +12,8 @@ import nextJS from '../assets/svg/skills/nextJS.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
 import react from '../assets/svg/skills/react.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
+import ReactNative from '../assets/svg/skills/reactnative.svg'
+import laravel from '../assets/svg/skills/laravel.svg'
 import typescript from '../assets/svg/skills/typescript.svg'
 import vue from '../assets/svg/skills/vue.svg'
 import bootstrap from '../assets/svg/skills/bootstrap.svg'
@@ -225,8 +227,12 @@ export const skillsImage = (skill) => {
             return unity;
         case 'wolframalpha':
             return wolframalpha;
+        case 'laravel':
+            return laravel;
         case 'canva':
             return canva;
+        case 'reactnative':
+            return ReactNative;
         default:
             break;
     }
